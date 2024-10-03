@@ -1,0 +1,14 @@
+[
+    {
+        "worker_id": "3",
+        "amount": "100",
+        "loan_date": "2024-09-25 14:28:44",
+        "justification": "0"
+    },
+    {
+        "worker_id": "2",
+        "amount": "500",
+        "loan_date": "2024-09-30 12:39:42",
+        "justification": "0"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id": "4",
+        "subscriberName": "احمد",
+        "phoneNumber": "01068694941",
+        "subscriptionType": "{\"id\":1,\"type\":\"12 حصه\",\"sessions\":\"12\",\"price\":\"450\"}",
+        "subscriptionDuration": "12",
+        "subscriptionStartDate": "2024-09-25",
+        "subscriptionEndDate": "2025-09-25",
+        "subscriptionCost": "450",
+        "remaining": 0,
+        "coachName": "",
+        "total_paid": 450,
+        "installments": [
+            {
+                "amount": 400,
+                "date": "2024-09-25 14:53:28"
+            }
+        ]
+    },
+    {
+        "amount": 100,
+        "date": "2024-09-25 15:08:47"
+    },
+    {
+        "amount": 10,
+        "date": "2024-09-26 19:57:15"
+    },
+    {
+        "amount": 50,
+        "date": "2024-09-26 19:57:32"
+    }
+]

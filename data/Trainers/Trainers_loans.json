@@ -1,0 +1,14 @@
+[
+    {
+        "trainer_id": "1",
+        "amount": "500",
+        "loan_date": "2024-09-25 06:24:04",
+        "justification": "سبب"
+    },
+    {
+        "trainer_id": "1",
+        "amount": "120",
+        "loan_date": "2024-09-25 14:31:45",
+        "justification": "3232"
+    }
+]

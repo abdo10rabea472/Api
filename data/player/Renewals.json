@@ -1,0 +1,52 @@
+[
+    {
+        "id": "19",
+        "subscriptionType": "{\"id\":2,\"type\":\"20 \u062d\u0635\u0647\",\"sessions\":\"20\",\"price\":\"500\"}",
+        "subscriptionDuration": "20",
+        "subscriptionStartDate": "2024-10-01",
+        "subscriptionEndDate": "2026-06-01",
+        "subscriptionCost": "500",
+        "paid": "500",
+        "renewalDate": "2024-10-01"
+    },
+    {
+        "id": "",
+        "subscriptionType": "{\"id\":2,\"type\":\"20 \u062d\u0635\u0647\",\"sessions\":\"20\",\"price\":\"500\"}",
+        "subscriptionDuration": "20",
+        "subscriptionStartDate": "2024-10-01",
+        "subscriptionEndDate": "",
+        "subscriptionCost": "500",
+        "paid": 0,
+        "renewalDate": "2024-10-01"
+    },
+    {
+        "id": 17,
+        "subscriptionType": "{\"id\":1,\"type\":\"12 \u062d\u0635\u0647\",\"sessions\":\"12\",\"price\":\"500\",\"days\":\"30\"}",
+        "subscriptionDuration": "12",
+        "subscriptionStartDate": "2024-10-01",
+        "subscriptionEndDate": "2024-10-31",
+        "subscriptionCost": "500",
+        "paid": "500",
+        "renewalDate": "2024-10-01"
+    },
+    {
+        "id": 17,
+        "subscriptionType": "{\"id\":1,\"type\":\"12 \u062d\u0635\u0647\",\"sessions\":\"12\",\"price\":\"500\",\"days\":\"30\"}",
+        "subscriptionDuration": "12",
+        "subscriptionStartDate": "2024-10-01",
+        "subscriptionEndDate": "2024-10-31",
+        "subscriptionCost": "500",
+        "paid": "500",
+        "renewalDate": "2024-10-01"
+    },
+    {
+        "id": 17,
+        "subscriptionType": "{\"id\":1,\"type\":\"12 \u062d\u0635\u0647\",\"sessions\":\"12\",\"price\":\"500\",\"days\":\"30\"}",
+        "subscriptionDuration": "12",
+        "subscriptionStartDate": "2024-10-01",
+        "subscriptionEndDate": "2024-10-31",
+        "subscriptionCost": "500",
+        "paid": "500",
+        "renewalDate": "2024-10-01"
+    }
+]
